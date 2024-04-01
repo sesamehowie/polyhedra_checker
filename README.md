@@ -4,6 +4,7 @@
 
 Install _**dependencies**_
 >pip install requests
+>
 >pip install loguru
 
 __Note__ : software only works with Http proxies
